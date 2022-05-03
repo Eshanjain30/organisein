@@ -1,0 +1,1 @@
+The rar file I uploaded should be extracted in C:\xampp\htdocs\organisein\wp-content\themes and then run through wordpress dashboard by selecting Appearences/themes then selecting the organisein theme. 
